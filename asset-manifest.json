@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactDropDownComponent/static/css/main.df62216e.css",
+    "main.js": "/reactDropDownComponent/static/js/main.29077476.js",
+    "index.html": "/reactDropDownComponent/index.html",
+    "main.df62216e.css.map": "/reactDropDownComponent/static/css/main.df62216e.css.map",
+    "main.29077476.js.map": "/reactDropDownComponent/static/js/main.29077476.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df62216e.css",
+    "static/js/main.29077476.js"
+  ]
+}
